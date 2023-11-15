@@ -56,4 +56,4 @@ Cp (chest pain), is a ordinal feature with 4 values. This makes sense since, The
 
 **Displot of Age**<br>
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/8e86cdcb-c781-4ced-88bc-935ad848de3f)<br>
-The displot shows the density with respect to age, it's observable that at the age 40-50 the density increases then decreases then increases again reaching the maximum density at the age 50-60. This data results in having a distinct shape of the plot.
+The displot shows the density with respect to age, it's observable that at the age 40-50 the density increases then decreases then increases again reaching the maximum density at the age 50-60. This data results in having a distinct shape of the plot.<br>
