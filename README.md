@@ -33,10 +33,10 @@
 
 # Results and Discussion
 **Countplot of  Target**<br>
-<img width="220" alt="1aa" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/a323d404-46f1-45fb-92e2-25c642d8b61b">
+<img width="220" alt="1aa" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/a323d404-46f1-45fb-92e2-25c642d8b61b"><br>
 Illustrates the number number of respondents having a heart disease (1) or not(0) using bar graph<br>
 
 **Heatmat**<br>
-<img width="176" alt="1bb" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c54321ac-9c85-4af8-a2fc-1f028ba88f50">
+:-: <img width="176" alt="1bb" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c54321ac-9c85-4af8-a2fc-1f028ba88f50"><br>
 The heatmap was used to analyze the correlation of the attained data, the data used colors to represents. For instance the data indicates the intensity of data showing the its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. The correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
 
