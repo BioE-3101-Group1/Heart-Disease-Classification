@@ -102,6 +102,61 @@ This corresponds to the previous graph showing the specific age of the responden
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/217ef030-faa2-4ec8-aef3-cd95bdef7f90)<br>
 The barplot indicates that the number of male has 207 respondents making it larger than 96 data of the female. This explains why the male barplot in the previous age graphs are generally higher than the female.<br>
 
-**Displot of Oldpeak**
-* Oldpeak = ST depression induced by exercise relative to rest
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c8ec52b2-db77-48a9-92a0-a582442f8e89)
+**Distplot of Trestbps**<br>
+* Oldpeak = ST depression induced by exercise relative to rest<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c8ec52b2-db77-48a9-92a0-a582442f8e89)<br>
+The distplot indicates the resting blood pressure of the respondent measured with respect to density. It shows a bell like shape showing a highest 120-140.<br>
+
+**Distplot of Chol**<br>
+* Chol = serum cholestoral in mg/dl<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/288a35e8-831e-43ed-9fb8-39c579bfed16)<br>
+The distplot shows the cholesterol level in mg/dl with density as it's y-axis parameter. The data shows a highest point at the 200-300. The observed data shows a more compressed distplot than the other<br>
+
+**Countplot of Fbs**<br>
+* Fbs = ( fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/30f6d2b0-01ef-4752-85d8-217f2ebf47b3)<br>
+The countplot shows the counted graph of the fasting blood sugar where the data is classified as more 120(1) and otherwise (0).<br>
+
+**Countplot of Restecg**<br>
+* Restecg = resting electrocardiographic results<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/06303242-3ee3-4f3c-a14e-26e22e946614)<br>
+The table counted the resting electrocardiographic results showing a lowest count in 2. The x values indicate ecg results as: — Value 0: showing probable or definite left ventricular hypertrophy by Estes’ criteria — Value 1: normal — Value 2: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)<br>
+
+**Distplot of Thalach**<br>
+* Thalach = maximum heart rate achieved<br>
+  ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/6e29826e-4c88-409f-a8b5-cec4b7fd123d)<br>
+The distplot indicates the maximum heart rate achieved with respect to the density as its y-axis parameter. <br>
+* The left plot shows that the data is spread from 75-200, it shows a high data output in the 150<br>
+* The right plot shows that the data is spread 100-200 making it to have a more compact bellshaped, it has the highest data outpu0t in the 150<br>
+
+**Countplot of Exang**<br>
+* Exang = exercise induced angina (1 = yes; 0 = no)<br>
+* ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/62a6bfc5-7d80-428a-92e5-1918ae8599dc)<br>
+The image shows the counted respondents classifying if they experience exercise-induced angina (1) or not(0). The data shows 0 has the highest number of counts in the table<br>
+
+**Distplot of Oldpeak**<br>
+* Oldpeak = ST depression induced by exercise relative to rest<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/141978d6-d035-4971-a60b-c2eeccfd5af3)<br>
+The image shows the counted respondents classifying if they experience exercise-induced angina (1) or not(0). The data shows 0 has the highest number of counts in the table.<br>
+
+**Distplot based on Target**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/16ba022a-c311-446e-bad5-4aaced321104)<br>
+The data classified the oldpeak using a distplot with respect to the diagnosis.<br>
+* The left image indicates a highest data output in the 0 and decreasing line as the oldpeak increases<br>
+* The right image shows the highest data output in the 0 and stop decreasing in the 1.75 befor continuing its decrease. The image has a narrower line compare to the other one as it involves a lesser number values of oldpeak<br>
+
+**Barplot od ca**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/dbd22342-7f81-4cf7-80b1-d95bb63b9665)<br>
+The barplot indicates the number of major vessels colored by fluoroscopy, it shows a highest value of ca and highest value of error bar at 4<br>
+
+**Barplot of Thal**<br>
+<img width="347" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1eff0172-d098-4052-be93-b45c8c3c07a8"><br>
+The barplot shows a highest number of data in 2 but a highest error bar in 0<br>
+
+**Modeling**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/b8e56e31-ade3-455d-8119-79b734262463)<br>
+The table shows the highest value attained in each modeling and to analyze the highest model method. The data shows that random forest has the highest score values attained used to perform both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and aggregation<br>
+
+**Stacking best cross validation from 4**<br>
+* Final score for predicting death by heart disease is 88.16<br>
+
