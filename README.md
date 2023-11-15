@@ -33,20 +33,20 @@
 
 # Results and Discussion
 **Countplot of  Target**<br>
-<img width="220" alt="1aa" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/a323d404-46f1-45fb-92e2-25c642d8b61b"><br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/e95cc044-3f2e-47ba-9ebd-c011845cdbe7)<br>
 Illustrates the number number of respondents having a heart disease (1) or not(0) using bar graph<br>
 
 **Heatmat**<br>
-<img width="176" alt="1bb" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c54321ac-9c85-4af8-a2fc-1f028ba88f50"><br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/fa221254-f9bd-4abd-a7b7-24b7d0f3936a)<br>
 The heatmap was used to analyze the correlation of the attained data, the data used colors to represents. For instance the data indicates the intensity of data showing the its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. The correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
 
 **Barplot of Slope Based Target**<br>
-<img width="222" alt="1cc" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/310896fb-0c57-48cb-89f3-c27d041a088f"><br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ae906869-ac79-4eb9-ac35-a7e2b6df116b)<br>
 The graph plotted different types of slopes that indicates the peak of exercise ST segment gathered with reference to the target that indicates the diagnosis of the on the patients. Slope 0 with 9, slope 1 with 49, and slope 2 with 107. The "slope" hue, refers to the peak exercise ST segment, with values: 0: upsloping , 1: flat , 2: downsloping.<br>
 This supports the plot above because low ST Depression yields people at greater risk for heart disease[x value=downsloping - closer to target with value of 1(with disease).] While a high ST depression (upsloping) is considered normal & healthy.<br>
 
 **Distplot of thalach**<br>
-<img width="227" alt="1dd" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/61b67131-6b9a-49f8-92bb-6f1852191b45"><br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/bcc18f79-eed9-48b9-ae31-8255aa7367b6)<br>
 The displot indicates the density of the maximum heart rate (thalac). It is noticeable that the plot made a bell like shape as the maximum density falls between 150-175. The displot was also customize to red color.<br>
 
 **Barplot of cp based on target**<br>
