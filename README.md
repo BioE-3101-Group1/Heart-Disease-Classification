@@ -32,5 +32,11 @@
 	In terms of stacking best cross-validation, the program used k-fold cross-validation and trained the classified and collected data, this was used for predictions and model stacking. Thus, the program piled the data into syntax and ran the syntax through another boosting meta-model and ensemble methods used for predicting the death rate caused by heart diseases.<br>
 
 # Results and Discussion
-**Countplot of  Target**
+**Countplot of  Target**<br>
 <img width="220" alt="1aa" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/a323d404-46f1-45fb-92e2-25c642d8b61b">
+Illustrates the number number of respondents having a heart disease (1) or not(0) using bar graph<br>
+
+**Heatmat**<br>
+<img width="176" alt="1bb" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c54321ac-9c85-4af8-a2fc-1f028ba88f50">
+The heatmap was used to analyze the correlation of the attained data, the data used colors to represents. For instance the data indicates the intensity of data showing the its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. The correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
+
