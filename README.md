@@ -1,4 +1,4 @@
-<img width="227" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1ce0509c-c3a1-4992-9070-b75069482c2a"># Heart-Disease-Classification
+# Heart-Disease-Classification
 # Introduction
 # Objectives
 # Methodology
