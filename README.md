@@ -7,7 +7,7 @@
 * age= refers to the age of the respondents
 * sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)
 * cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)
-   trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg
+* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg
 * Chol= refers to the respondent's cholesterol in mg/dl
 * fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise
 * restecg= refers to the resting electrocardiographic results of the respondents
@@ -24,7 +24,9 @@
 
 **Modeling**<br>
 	The program used modeling to test the system's accuracy in predicting; the users used cross-validation, gradient boosting, random forest, AdaBoost, and SVM. Cross-validation was used by taking the classifier and its parameters along with the feature matrix and target variable and returning the score as a percentage, rounded to two decimal places.<br>
+ 
 	In addition, Gradient Boosting was used for regressing and classifying problems by testing the predictive capability of the machine learning model using two parameters: learning and model. The program tested the system using different values of parameters. Random forest were used to perform regression and classification tasks using multiple decision trees and a technique called Bootstrap and Aggregation. In this program, the user used different types of estimators and criterion in a max depth of 1.<br>
+ 
 	Adaboost was used to complete the training dataset to train weak learners, and it is a sequential process that corrects the error of the previous model. The program used different values of estimators and learning rates as parameters. Lastly, SVM was used to supervise machine learning. The program tested the system using different values and types of C and kernel as parameters.<br>
 
  
