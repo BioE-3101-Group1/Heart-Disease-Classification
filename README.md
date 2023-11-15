@@ -160,3 +160,8 @@ The table shows the highest value attained in each modeling and to analyze the h
 **Stacking best cross validation from 4**<br>
 * Final score for predicting death by heart disease is 88.16<br>
 
+# Conclusion
+
+# Disclaimer 
+* The instructions and code used in the project are based on the provided guidelines from https://www.kaggle.com/code/litaldavar/heart-disease-classification/notebook?fbclid=IwAR1sxjxbEjUTc6cLk70JR8ZPLWbKme7REkpr7vZOVadnS3FlyESwwkToxug<br>
+* This is created solely for educational purpose only.<br>
