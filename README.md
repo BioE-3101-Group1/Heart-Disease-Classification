@@ -51,6 +51,6 @@ The displot indicates the density of the maximum heart rate (thalac). It is noti
 
 **Barplot of cp based on target**<br>
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/0cd20f24-6756-4b5b-861e-e47ec8e5af92)<br>
-The table plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the on the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.<br>
+The graph plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the on the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.<br>
 Cp (chest pain), is a ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
 
