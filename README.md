@@ -50,7 +50,7 @@ This supports the plot above because low ST Depression yields people at greater 
 The displot indicates the density of the maximum heart rate (thalac). It is noticeable that the plot made a bell like shape as the maximum density falls between 150-175. The displot was also customize to red color.<br>
 
 **Barplot of cp based on target**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/b0291195-385d-420d-996e-f5f94c99ffc9)<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/0cd20f24-6756-4b5b-861e-e47ec8e5af92)<br>
 The table plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the on the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.<br>
 Cp (chest pain), is a ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
 
