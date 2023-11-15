@@ -29,3 +29,6 @@ Outliers were used in the program to deviate significantly from the rest of the 
 	
 **Stacking best cross validation from 4**
 In terms of stacking best cross-validation, the program used k-fold cross-validation and trained the classified and collected data, this was used for predictions and model stacking. Thus, the program piled the data into syntax and ran the syntax through another boosting meta-model and ensemble methods used for predicting the death rate caused by heart diseases
+
+# Results and Discussion
+**Countplot of  Target**
