@@ -1,4 +1,4 @@
-# Heart-Disease-Classification
+<img width="227" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1ce0509c-c3a1-4992-9070-b75069482c2a"># Heart-Disease-Classification
 # Introduction
 # Objectives
 # Methodology
@@ -37,6 +37,20 @@
 Illustrates the number number of respondents having a heart disease (1) or not(0) using bar graph<br>
 
 **Heatmat**<br>
-:-: <img width="176" alt="1bb" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c54321ac-9c85-4af8-a2fc-1f028ba88f50"><br>
+<img width="176" alt="1bb" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c54321ac-9c85-4af8-a2fc-1f028ba88f50"><br>
 The heatmap was used to analyze the correlation of the attained data, the data used colors to represents. For instance the data indicates the intensity of data showing the its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. The correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
+
+**Barplot of Slope Based Target**<br>
+<img width="222" alt="1cc" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/310896fb-0c57-48cb-89f3-c27d041a088f"><br>
+The graph plotted different types of slopes that indicates the peak of exercise ST segment gathered with reference to the target that indicates the diagnosis of the on the patients. Slope 0 with 9, slope 1 with 49, and slope 2 with 107. The "slope" hue, refers to the peak exercise ST segment, with values: 0: upsloping , 1: flat , 2: downsloping.<br>
+This supports the plot above because low ST Depression yields people at greater risk for heart disease[x value=downsloping - closer to target with value of 1(with disease).] While a high ST depression (upsloping) is considered normal & healthy.<br>
+
+**Distplot of thalach**<br>
+<img width="227" alt="1dd" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/61b67131-6b9a-49f8-92bb-6f1852191b45"><br>
+The displot indicates the density of the maximum heart rate (thalac). It is noticeable that the plot made a bell like shape as the maximum density falls between 150-175. The displot was also customize to red color.<br>
+
+**Barplot of cp based on target**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/b0291195-385d-420d-996e-f5f94c99ffc9)<br>
+The table plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the on the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.<br>
+Cp (chest pain), is a ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
 
