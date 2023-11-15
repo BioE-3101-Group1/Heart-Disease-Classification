@@ -34,7 +34,7 @@
 # Results and Discussion
 **Countplot of  Target**<br>
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/e95cc044-3f2e-47ba-9ebd-c011845cdbe7)<br>
-Illustrates the number number of respondents having a heart disease (1) or not(0) using bar graph<br>
+The graph shows the total count of the data. Target 1 represents the patient diagnosed with heart disease; while 0 represents the patient not diagnosed with heart disease. The total number of patients with heart disease is 165, and the count of those not having heart disease is 138. A total of 303 entries were recorded.<br>
 
 **Heatmat**<br>
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/fa221254-f9bd-4abd-a7b7-24b7d0f3936a)<br>
@@ -57,3 +57,51 @@ Cp (chest pain), is a ordinal feature with 4 values. This makes sense since, The
 **Displot of Age**<br>
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/8e86cdcb-c781-4ced-88bc-935ad848de3f)<br>
 The displot shows the density with respect to age, it's observable that at the age 40-50 the density increases then decreases then increases again reaching the maximum density at the age 50-60. This data results in having a distinct shape of the plot.<br>
+
+**OutLiers**
+**Age with Target 0 and 1**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/d215e68a-dd6e-4d55-86ba-c832e8bbc7f5)<br>
+The histogram classified the ages based on the target having target 0 as people without disease and target 1 as people with the disease. As we can see between 35 - 70,in age 50-60 has the hihghest number of people without disease then it goes lower as the people gets older. On the other hand, people with disease has a scattered histogram it is unstable as the blocks in histogram increases and decreases simultaneously as the age progresses.<br>
+
+**Age based on Target and Sex**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/f12480b9-bd1b-4778-9324-64c7b17a5bbc)<br>
+* Target 0 sex 0 
+The histogram shows that the female whose age is within the range of 55-65 has a smaller number of people that doesn't have disease unlike when they are young
+
+
+* Target 0 sex 1<br>
+The histogram indicates that the male whose age is between 35 - 70 has a higher number of people that doesn't have a disease compared to female.<br>
+
+* Target 1 sex 0<br>
+The histogram illustrates that the female has a more scattered data compared to male as it's age range from 35-70 but it has a lower number of people that has a disease<br>
+
+* Target 1 sex 1<br>
+The histogram represents that the male has a more compressed data compared to female as it's age range 35-70 but it has a higher number of people that has a disease<br>
+
+**Ageband Table**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ac93ec0c-9b83-4e84-acab-fde0a15f2642)<br>
+The table shows and created an ageband that are further used on the later program as a condition to process and classify the signal<br>
+
+**Ageband based on Target**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/58d5c684-d8b3-4494-8802-69a08eeed78f)<br>
+* Target 0 Sex 0<br>
+The histogram shows that in the female age group of 2,3,and 4 has a lower number of people that doesn't have disease compare to male<br>
+
+* Target 0 Sex 1<br>
+The histogram indicates that the data of the male age group of 1,2,3,4, and 5 it has a larger number of people that doesn't have a disease compare to female<br>
+
+* Target 1 Sex 0<br>
+The histogram shows female data are included in all age group indicating that female has a lower number of peope who has a disease compare to male<br>
+
+* Target 1 Sex 1<br>
+The histogram indicates that male data are included in all age group showing that male has a larger number of people who has a disease compare to female<br>
+
+This corresponds to the previous graph showing the specific age of the respondents.<br>
+
+**Barplot of Sex**<br>
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/217ef030-faa2-4ec8-aef3-cd95bdef7f90)<br>
+The barplot indicates that the number of male has 207 respondents making it larger than 96 data of the female. This explains why the male barplot in the previous age graphs are generally higher than the female.<br>
+
+**Displot of Oldpeak**
+* Oldpeak = ST depression induced by exercise relative to rest
+![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c8ec52b2-db77-48a9-92a0-a582442f8e89)
