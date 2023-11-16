@@ -13,7 +13,7 @@
 - Explore the practical applications of the developed program in real-world healthcare settings.<br>
 
 ## Methodology
-#### Data Columns Desc <br>
+### Data Columns Desc <br>
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:<br>
  
 - age= refers to the age of the respondents<br>
@@ -32,7 +32,7 @@
 - Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)<br>
 <br>
 
-**Preprocessing data** <br>
+### Preprocessing Data <br>
 <p align="justify">Outliers were used in the program to deviate significantly from the rest of the objects. Hence, it is used to find errors in the dataset. The program measured the outlier by checking the outliers by using the 25 and 75 percent of every column. In addition, the program normalized the numeric data by storing the data columns in a syntax standardizing the numeric features of the data using the StandardScaler function and replacing the original values with the standardized version.</p>
 <br>
 
