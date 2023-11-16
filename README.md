@@ -5,7 +5,7 @@
 <p align="justify">The main goal of this study was to predict whether individuals had underlying cardiac problems by using a hospital system dataset for analysis and information extraction. By carefully analyzing the data, the goal was to create a prediction model that would improve the ability to recognize people who are more likely to have these kinds of illnesses. The objective is to use the knowledge gathered from the dataset analysis to support preventative healthcare initiatives.</p>
 
 ## Objectives
-<p align="justify"> * Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.</p>
+<p align="justify"> - Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.</p>
 <p align="justify">- Implement data refinement techniques to identify and handle missing or erroneous codes, ensuring the quality of the program.</p>
 <p align="justify">- Visualize the data using appropriate graphs and charts to facilitate a better understanding of the relationships between different features.</p>
 <p align="justify">- Interpret the results obtained from the models, providing insights into the factors influencing heart disease classification.</p>
@@ -15,7 +15,7 @@
 ## Methodology
 **Data columns desc**<br>
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:</p>
-<p align="justify">* age= refers to the age of the respondents.</p>
+* age= refers to the age of the respondents
 <p align="justify">* sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0).</p>
 <p align="justify">* cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)</p>
 <p align="justify">* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg</p>
