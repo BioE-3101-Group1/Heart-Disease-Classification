@@ -12,8 +12,9 @@
 - To predict the mortality from heart disease based on the given dataset.<br>
 - Explore the practical applications of the developed program in real-world healthcare settings.<br>
 <br>
+
 ## Methodology
-**Data columns desc**<br>
+**Data columns desc**
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:</p>
 - age= refers to the age of the respondents<br>
 - sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)<br>
