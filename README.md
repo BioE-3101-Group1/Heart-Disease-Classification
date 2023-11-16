@@ -110,7 +110,7 @@
 
 **Ageband**<br>
 <p align="center">
-<img width="98" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ef5bda21-36cb-4cf8-af66-4791ffc8e814"></p>
+<img width="150" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ef5bda21-36cb-4cf8-af66-4791ffc8e814"></p>
 <p align="center"> Figure 9: Ageband</p>
 <p align="justify">The table shows and created an ageband that are further used on the later program as a condition to process and classify the signal</p>
 
@@ -220,7 +220,7 @@
 
 **Modeling**<br>
 <p align="center">
-<img width="97" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c46cd1e3-7236-4c23-9325-486e6b570b3c"></p>
+<img width="150" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c46cd1e3-7236-4c23-9325-486e6b570b3c"></p>
 <p align="center"> Figure 22: Maximum Score of the Used Model</p>
 <p align="justify">The table shows the highest value attained in each modeling and to analyze the highest model method. The data shows that random forest has the highest score values attained used to perform both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and aggregation.</p>
 
