@@ -110,6 +110,12 @@
 
 **Ageband**<br>
 <p align="center">
+<img width="98" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ef5bda21-36cb-4cf8-af66-4791ffc8e814"></p>
+<p align="center"> Figure 9: Ageband</p>
+<p align="justify">The table shows and created an ageband that are further used on the later program as a condition to process and classify the signal</p>
+
+ 
+<p align="center">
 <img width="349" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/2f0ae658-f7c0-4b2f-a41a-f0eaccd04fd0"></p>
 <p align="center"> Figure 10: Ageband with Reference to Target and Sex</p>
 
@@ -127,73 +133,76 @@
 <p align="justify">This corresponds to the previous graph showing the specific age of the respondents.</p>
 
 **Sex**
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/58d5c684-d8b3-4494-8802-69a08eeed78f)<br>
-
-* Target 0 Sex 0<br>
-The histogram shows that in the female age group of 2,3,and 4 has a lower number of people that doesn't have disease compare to male<br>
-* Target 0 Sex 1<br>
-The histogram indicates that the data of the male age group of 1,2,3,4, and 5 it has a larger number of people that doesn't have a disease compare to female<br>
-* Target 1 Sex 0<br>
-The histogram shows female data are included in all age group indicating that female has a lower number of peope who has a disease compare to male<br>
-* Target 1 Sex 1<br>
-The histogram indicates that male data are included in all age group showing that male has a larger number of people who has a disease compare to female<br>
-This corresponds to the previous graph showing the specific age of the respondents.<br>
+<p align="center">
+<img width="326" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/14f19472-13b6-4f53-b7e1-f3f6ac6eb5bf"></p>
+<p align="center"> Figure 11: Countplot of Sex</p>
+<p align="justify">The barplot indicates that the number of male has 207 respondents making it larger than 96 data of the females. This explains why the male barplot in the previous age graphs are generally higher than the female.</p>
 
 
-**Barplot of Sex**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/217ef030-faa2-4ec8-aef3-cd95bdef7f90)<br>
-The barplot indicates that the number of male has 207 respondents making it larger than 96 data of the female. This explains why the male barplot in the previous age graphs are generally higher than the female.<br>
+**Trestbps**<br>
+<p align="center">
+<img width="324" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1fc07dc3-4cb4-4d69-abbf-dff15ee2b0dc"></p>
+<p align="center"> Figure 12: Distribution Plot of Trestbps</p>
+<p align="justify">Blood pressure is the force excreted by the heart when it pumps to the artery walls. Thus, it is composed of systolic (highest pressure when the heart pumps) and diastolic ( pressure when the heart relaxes) (Blood pressure (high)-hypertension, n.d.). In this activity, the distplot indicates the resting blood pressure of the respondent measured with respect to density. It shows a bell-like shape showing a highest 120-140. 
 
 
-**Distplot of Trestbps**<br>
-* Oldpeak = ST depression induced by exercise relative to rest<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c8ec52b2-db77-48a9-92a0-a582442f8e89)<br>
-The distplot indicates the resting blood pressure of the respondent measured with respect to density. It shows a bell like shape showing a highest 120-140.<br>
+**Chol**<br>
+<p align="center">
+<img width="332" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/b37c7e33-819b-4603-85b6-874405d6217c"></p>
+<p align="center"> Figure 13: Distribution Plot of Chol </p>
+<p align="justify">Cholesterol is one of the parameters that define the state or health of the heart. Cholesterol is a waxy substance for building healthy cells (High Cholesterol-Symptoms and Causes-Mayo Clinic, 2023). Thus, the high-density lipoprotein (HDL), low-density lipoprotein (LDL), and triglycerides can be seen in a person's serum cholesterol, and it was used to indicate the risk of having a heart disease (Huizen, 2021). In this activity, distplot shows the cholesterol level in mg/dl with density as it's y-axis parameter. The data shows a highest point at 200-300. The observed data shows a more compressed distplot than the other.</p>
 
 
-**Distplot of Chol**<br>
-* Chol = serum cholestoral in mg/dl<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/288a35e8-831e-43ed-9fb8-39c579bfed16)<br>
-The distplot shows the cholesterol level in mg/dl with density as it's y-axis parameter. The data shows a highest point at the 200-300. The observed data shows a more compressed distplot than the other<br>
+**Fbs**<br>
+<p align="center">
+<img width="328" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/f7795705-9122-4eef-ad2b-cdc49133f95a"></p>
+<p align="center"> Figure 14: Countplot of FBS</p>
+<p align="justify">The number of glucose or sugar in the blood is defined as the fasting blood sugar; results in 100-125 mg/dl indicate prediabetes, and above 126 mm/dl means diabetes (Professional, n.d.). The countplot shows the counted graph of the fasting blood sugar where the data is classified as more 120(1) and otherwise (0).</p>
 
 
-**Countplot of Fbs**<br>
-* Fbs = ( fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/30f6d2b0-01ef-4752-85d8-217f2ebf47b3)<br>
-The countplot shows the counted graph of the fasting blood sugar where the data is classified as more 120(1) and otherwise (0).<br>
+**Restecg**<br>
+<p align="center">
+<img width="317" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1ca83609-5005-4f11-bb53-18c40a3d92ad"></p>
+<p align="center"> Figure 15: Countplot of Restecg</p>
+<p align="justify">A resting electrocardiogram is the electrical activity of the heart while at rest and defines the enlargement of the heart (Resting Electrocardiography, 2016). In this program, the table counted the resting electrocardiographic results showing a lowest count in 2. The x values indicate ecg results as:</p>
+
+* Value 0: showing probable or definite left ventricular hypertrophy by Estes’ criteria<br>
+* Value 1: normal<br>
+* Value 2: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)<br>
 
 
-**Countplot of Restecg**<br>
-* Restecg = resting electrocardiographic results<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/06303242-3ee3-4f3c-a14e-26e22e946614)<br>
-The table counted the resting electrocardiographic results showing a lowest count in 2. The x values indicate ecg results as: — Value 0: showing probable or definite left ventricular hypertrophy by Estes’ criteria — Value 1: normal — Value 2: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)<br>
+**Thalach**<br>
+<p align="center">
+<img width="332" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/60e95b80-e214-4a67-b45b-ef06b368e7ea"></p>
+<p align="center"> Figure 16:  Distribution Plot of Thalach with Respect to Target</p>
+<p align="justify">The maximum heart rate is measured by subtracting your age from 220 and multiplying it by 0.64 and 0.76, indicating 64% and 74% of the average maximum heart rate (Target Heart Rate and Estimated Maximum Heart Rate| Physical Activity | CD, n.d.). The distplot indicates the maximum heart rate achieved with respect to the density as its y-axis parameter.</p>
 
-
-**Distplot of Thalach**<br>
-* Thalach = maximum heart rate achieved<br>
-  ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/6e29826e-4c88-409f-a8b5-cec4b7fd123d)<br>
-The distplot indicates the maximum heart rate achieved with respect to the density as its y-axis parameter. <br>
 * The left plot shows that the data is spread from 75-200, it shows a high data output in the 150<br>
 * The right plot shows that the data is spread 100-200 making it to have a more compact bellshaped, it has the highest data outpu0t in the 150<br>
 
 
-**Countplot of Exang**<br>
-* Exang = exercise induced angina (1 = yes; 0 = no)<br>
-* ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/62a6bfc5-7d80-428a-92e5-1918ae8599dc)<br>
-The image shows the counted respondents classifying if they experience exercise-induced angina (1) or not(0). The data shows 0 has the highest number of counts in the table<br>
+**Exang**<br>
+<p align="center">
+<img width="322" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/e738353c-e426-416d-ad7a-94d30de0257d"></p>
+<p align="center"> Figure 17: Countplot of Exang</p>
+<p align="justify">Exercise-induced angina is a pain that was measured in the dataset in this activity; in an article entitled Angina: Symptoms, Diagnosis, and Treatments (2021), angina was defined as the pain in the chest that can be felt during exercise, stress, and activities that makes the heart work harder. In this activity, the image shows the counted respondents classifying if they experience exercise-induced angina (1) or not(0). The data shows 0 has the highest number of counts in the table.</p>
 
 
-**Distplot of Oldpeak**<br>
-* Oldpeak = ST depression induced by exercise relative to rest<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/141978d6-d035-4971-a60b-c2eeccfd5af3)<br>
-The image shows the counted respondents classifying if they experience exercise-induced angina (1) or not(0). The data shows 0 has the highest number of counts in the table.<br>
+**Oldpeak**<br>
+<p align="center">
+<img width="315" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c668b106-b783-415f-bc8e-0b272baf3964"></p>
+<p align="center"> Figure 18: Distribution Plot of Oldpeak</p>
+<p align="justify">Old peak is defined as the ST depression (occurs when the J point is displaced below baseline) induced by exercise relative to rest (Deshmukh, 2022). This program showed that the image shows the counted respondents classifying if they experience exercise-induced angina (1) or not(0). The data shows 0 has the highest number of counts in the table.</p>
 
 
-**Distplot based on Target**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/16ba022a-c311-446e-bad5-4aaced321104)<br>
-The data classified the oldpeak using a distplot with respect to the diagnosis.<br>
-* The left image indicates a highest data output in the 0 and decreasing line as the oldpeak increases<br>
-* The right image shows the highest data output in the 0 and stop decreasing in the 1.75 befor continuing its decrease. The image has a narrower line compare to the other one as it involves a lesser number values of oldpeak<br>
+<p align="center">
+<img width="338" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/5cc058e1-69d1-4cd9-bb47-a4dcef1eed13"></p>
+<p align="center"> Figure 19: Distribution Plot of Oldpeak Based on Target</p>
+<p align="justify">The data classified the oldpeak using a distplot with respect to the diagnosis.</p>
+
+* The left image indicates a highest data output in the 0 and decreasing line as the oldpeak increases.<br>
+* The right image shows the highest data output in the 0 and stop decreasing in the 1.75 before continuing its decrease. The image has a narrower line compare to the other one as it involves a lesser number values of oldpeak.<br>
+
 
 
 **Barplot od ca**<br>
