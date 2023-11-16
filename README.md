@@ -5,31 +5,30 @@
 <p align="justify">The main goal of this study was to predict whether individuals had underlying cardiac problems by using a hospital system dataset for analysis and information extraction. By carefully analyzing the data, the goal was to create a prediction model that would improve the ability to recognize people who are more likely to have these kinds of illnesses. The objective is to use the knowledge gathered from the dataset analysis to support preventative healthcare initiatives.</p>
 
 ## Objectives
-<p align="justify"> - Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.</p>
-<p align="justify">- Implement data refinement techniques to identify and handle missing or erroneous codes, ensuring the quality of the program.</p>
-<p align="justify">- Visualize the data using appropriate graphs and charts to facilitate a better understanding of the relationships between different features.</p>
-<p align="justify">- Interpret the results obtained from the models, providing insights into the factors influencing heart disease classification.</p>
-<p align="justify">- To predict the mortality from heart disease based on the given dataset.</p>
-<p align="justify">- Explore the practical applications of the developed program in real-world healthcare settings.</p>
+- Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.<br>
+- Implement data refinement techniques to identify and handle missing or erroneous codes, ensuring the quality of the program.<br>
+- Visualize the data using appropriate graphs and charts to facilitate a better understanding of the relationships between different features.<br>
+- Interpret the results obtained from the models, providing insights into the factors influencing heart disease classification.<br>
+- To predict the mortality from heart disease based on the given dataset.<br>
+- Explore the practical applications of the developed program in real-world healthcare settings.<br>
 
 ## Methodology
 **Data columns desc**<br>
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:</p>
-* age= refers to the age of the respondents<br>
-* sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)<br>
-* cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)<br>
-* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg<br>
-* Chol= refers to the respondent's cholesterol in mg/dl<br>
-* fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise<br>
-* restecg= refers to the resting electrocardiographic results of the respondents<br>
-* thalach= refers to the maximum heart rate achieved<br>
-* exang= refers to the respondent's exercise-induced angina: Yes (1) and No(0)<br>
-* oldpeak= refers to the ST depression induced by exercise relative to rest<br>
-* Slope= refers to the slope of the peak exercise ST segment gathered from the respondents with values: upsloping(0), flat(1), and downsloping (2)<br>
-* ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents<br>
-* thal3= normal 6= fixed defect 7 = reversible defect<br>
-* Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)<br>
-
+- age= refers to the age of the respondents<br>
+- sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)<br>
+- cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)<br>
+- trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg<br>
+- Chol= refers to the respondent's cholesterol in mg/dl<br>
+- fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise<br>
+- restecg= refers to the resting electrocardiographic results of the respondents<br>
+- thalach= refers to the maximum heart rate achieved<br>
+- exang= refers to the respondent's exercise-induced angina: Yes (1) and No(0)<br>
+- oldpeak= refers to the ST depression induced by exercise relative to rest<br>
+- Slope= refers to the slope of the peak exercise ST segment gathered from the respondents with values: upsloping(0), flat(1), and downsloping (2)<br>
+- ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents<br>
+- thal3= normal 6= fixed defect 7 = reversible defect<br>
+- Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)<br>
 
 **Preprocessing data** <br>
 <p align="justify">Outliers were used in the program to deviate significantly from the rest of the objects. Hence, it is used to find errors in the dataset. The program measured the outlier by checking the outliers by using the 25 and 75 percent of every column. In addition, the program normalized the numeric data by storing the data columns in a syntax standardizing the numeric features of the data using the StandardScaler function and replacing the original values with the standardized version.</p>
