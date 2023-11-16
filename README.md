@@ -13,7 +13,7 @@
 - Explore the practical applications of the developed program in real-world healthcare settings.<br>
 
 ## Methodology
-****Data columns desc****<br>
+#### Data Columns Desc <br>
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:<br>
  
 - age= refers to the age of the respondents<br>
