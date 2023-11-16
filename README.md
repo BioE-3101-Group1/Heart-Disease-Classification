@@ -90,25 +90,41 @@
 <p align="justify">The histogram classified the ages based on the target having target 0 as people without disease and target 1 as people with the disease. As we can see between 35 - 70,in age 50-60 has the highest number of people without disease then it goes lower as the people get older. On the other hand, people with disease have a scattered histogram; it is unstable as the blocks in histogram increase and decrease simultaneously as the age progresses.</p>
 
 
-
-**Age based on Target and Sex**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/f12480b9-bd1b-4778-9324-64c7b17a5bbc)<br>
+<p align="center">
+<img width="345" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/fdb7b768-7ffd-4016-b428-edfa8eac445e"></p>
+<p align="center"> Figure 8: Histogram of Age Based on Target and Sex</p>
 * Target 0 sex 0 
-The histogram shows that the female whose age is within the range of 55-65 has a smaller number of people that doesn't have disease unlike when they are young.
-* Target 0 sex 1<br>
-The histogram indicates that the male whose age is between 35 - 70 has a higher number of people that doesn't have a disease compared to female.<br>
-* Target 1 sex 0<br>
-The histogram illustrates that the female has a more scattered data compared to male as it's age range from 35-70 but it has a lower number of people that has a disease<br>
-* Target 1 sex 1<br>
-The histogram represents that the male has a more compressed data compared to female as it's age range 35-70 but it has a higher number of people that has a disease<br>
+<p align="justify">The histogram shows that the female whose age is within the range of 55-65 has a smaller number of people that doesn't have disease unlike when they are young.</p>
+
+* Target 0 sex 1
+<p align="justify">The histogram indicates that the male whose age is between 35 - 70 has a higher number of people that doesn't have a disease compared to female.</p>
+
+* Target 1 sex 0
+<p align="justify">The histogram illustrates that the female has a more scattered data compared to male as it's age range from 35-70 but it has a lower number of people that has a disease.</p>
+
+* Target 1 sex 1
+<p align="justify">The histogram represents that the male has a more compressed data compared to female as it's age range 35-70 but it has a higher number of people that has a disease.</p>
 
 
-**Ageband Table**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ac93ec0c-9b83-4e84-acab-fde0a15f2642)<br>
-The table shows and created an ageband that are further used on the later program as a condition to process and classify the signal<br>
 
+**Ageband**<br>
+<p align="center">
+<img width="349" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/2f0ae658-f7c0-4b2f-a41a-f0eaccd04fd0"></p>
+<p align="center"> Figure 10: Ageband with Reference to Target and Sex</p>
+* Target 0 Sex 0
+<p align="justify">The histogram shows that in the female age group of 2,3,and 4 has a lower number of people that doesn't have disease compared to male.</p>
 
-**Ageband based on Target**<br>
+* Target 0 Sex 1
+<p align="justify">The histogram indicates that the data of the male age group of 1,2,3,4, and 5 it has a larger number of people that doesn't have a disease compared to female.</p>
+
+* Target 1 Sex 0
+<p align="justify">The histogram shows female data are included in all age group indicating that female has a lower number of people who has a disease compared to male.</p>
+
+* Target 1 Sex 1
+<p align="justify">The histogram indicates that male data are included in all age group  showing that male has a larger number of people who has a disease compared to female.</p>
+<p align="justify">This corresponds to the previous graph showing the specific age of the respondents.</p>
+
+**Sex**
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/58d5c684-d8b3-4494-8802-69a08eeed78f)<br>
 * Target 0 Sex 0<br>
 The histogram shows that in the female age group of 2,3,and 4 has a lower number of people that doesn't have disease compare to male<br>
