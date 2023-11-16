@@ -7,28 +7,28 @@
 ## Objectives
 <p align="justify">- Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.</p>
 <p align="justify">- Implement data refinement techniques to identify and handle missing or erroneous codes, ensuring the quality of the program.</p>
-- Visualize the data using appropriate graphs and charts to facilitate a better understanding of the relationships between different features.
-- Interpret the results obtained from the models, providing insights into the factors influencing heart disease classification.
-- To predict the mortality from heart disease based on the given dataset.
-- Explore the practical applications of the developed program in real-world healthcare settings.
+<p align="justify">- Visualize the data using appropriate graphs and charts to facilitate a better understanding of the relationships between different features.</p>
+<p align="justify">- Interpret the results obtained from the models, providing insights into the factors influencing heart disease classification.</p>
+<p align="justify">- To predict the mortality from heart disease based on the given dataset.</p>
+<p align="justify">- Explore the practical applications of the developed program in real-world healthcare settings.</p>
 
 ## Methodology
 **Data columns desc**<br>
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:</p>
-* age= refers to the age of the respondents
-* sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)
-* cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)
-* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg
-* Chol= refers to the respondent's cholesterol in mg/dl
-* fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise
-* restecg= refers to the resting electrocardiographic results of the respondents
-* thalach= refers to the maximum heart rate achieved
-* exang= refers to the respondent's exercise-induced angina: Yes (1) and No(0)
-* oldpeak= refers to the ST depression induced by exercise relative to rest
-* Slope= refers to the slope of the peak exercise ST segment gathered from the respondents with values: upsloping(0), flat(1), and downsloping (2)
-* ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents
-* thal3= normal 6= fixed defect 7 = reversible defect
-* Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)
+<p align="justify">* age= refers to the age of the respondents.</p>
+<p align="justify">* sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0).</p>
+<p align="justify">* cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)</p>
+<p align="justify">* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg</p>
+<p align="justify">* Chol= refers to the respondent's cholesterol in mg/dl</p>
+<p align="justify">* fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise</p>
+<p align="justify">* restecg= refers to the resting electrocardiographic results of the respondents</p>
+<p align="justify">* thalach= refers to the maximum heart rate achieved</p>
+<p align="justify">* exang= refers to the respondent's exercise-induced angina: Yes (1) and No(0)</p>
+<p align="justify">* oldpeak= refers to the ST depression induced by exercise relative to rest</p>
+<p align="justify">* Slope= refers to the slope of the peak exercise ST segment gathered from the respondents with values: upsloping(0), flat(1), and downsloping (2)</p>
+<p align="justify">* ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents</p>
+<p align="justify">* thal3= normal 6= fixed defect 7 = reversible defect</p>
+<p align="justify">* Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)</p>
 
 
 **Preprocessing data** <br>
@@ -47,8 +47,9 @@
 <p align="justify">In terms of stacking best cross-validation, the program used k-fold cross-validation and trained the classified and collected data, this was used for predictions and model stacking. Thus, the program piled the data into syntax and ran the syntax through another boosting meta-model and ensemble methods used for predicting the death rate caused by heart diseases.</p>
 
 ## Results and Discussion
-**Countplot of  Target**<br>
+
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/e95cc044-3f2e-47ba-9ebd-c011845cdbe7)<br>
+<p align="center"> **Countplot of  Target**</p>
 The graph shows the total count of the data. Target 1 represents the patient diagnosed with heart disease; while 0 represents the patient not diagnosed with heart disease. The total number of patients with heart disease is 165, and the count of those not having heart disease is 138. A total of 303 entries were recorded.<br>
 
 
