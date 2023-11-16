@@ -5,8 +5,8 @@
 <p align="justify">The main goal of this study was to predict whether individuals had underlying cardiac problems by using a hospital system dataset for analysis and information extraction. By carefully analyzing the data, the goal was to create a prediction model that would improve the ability to recognize people who are more likely to have these kinds of illnesses. The objective is to use the knowledge gathered from the dataset analysis to support preventative healthcare initiatives.</p>
 
 ## Objectives
-- Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.
-- Implement data refinement techniques to identify and handle missing or erroneous codes, ensuring the quality of the program.
+<p align="justify">- Conduct a comprehensive statistical analysis of the heart disease dataset to gain insights into the distribution and characteristics of the variables.</p>
+<p align="justify">- Implement data refinement techniques to identify and handle missing or erroneous codes, ensuring the quality of the program.</p>
 - Visualize the data using appropriate graphs and charts to facilitate a better understanding of the relationships between different features.
 - Interpret the results obtained from the models, providing insights into the factors influencing heart disease classification.
 - To predict the mortality from heart disease based on the given dataset.
