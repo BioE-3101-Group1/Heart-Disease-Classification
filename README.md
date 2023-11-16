@@ -52,11 +52,11 @@
 <p align="center">Figure 1: Countplot of the Target </p>
 <p align="justify">Heart disease is an alarming disease that occurs in different ages and genders; diagnosing this disease involves various tests and diagnosis of the heart, including blood tests, chest x-ray, ECG, heart monitoring, endocardium, exercise tests, cardiac catheterization, heart CT scan, and heart MRI scan (Heart Disease, 2022). This activity shows the total count of the data. Target 1 represents the patient diagnosed with heart disease; while 0 represents the patient not diagnosed with heart disease. The total number of patients with heart disease is 165, and the count of those not having heart disease is 138. A total of 303 entries were recorded.</p>
 
-
-
-**Heatmat**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/fa221254-f9bd-4abd-a7b7-24b7d0f3936a)<br>
-The heatmap was used to analyze the correlation of the attained data, the data used colors to represents. For instance the data indicates the intensity of data showing the its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. The correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
+<p align="center">
+ <img width="400" height="200" src="![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/fa221254-f9bd-4abd-a7b7-24b7d0f3936a)">
+  </p>
+<p align="center"> Figure 2: Heatmap of the Dataset</p>
+<p align="justify">Python is a powerful tool that allows users to generate images and tables to illustrate data further; heatmap is a tool that shows the values with the corresponding color depending on the different values that allows the user to analyze the patterns and correlations of the data (Ramuglia, 2023). Hence, heatmap was used to analyze the correlation of the obtained data, the data used colors to represent a certain value. For instance, the data indicates the intensity of data showing its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. Thus, the correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, the greater amount of chest pain results in a greater chance of having heart disease.</p>
 
 
 **Barplot of Slope Based Target**<br>
