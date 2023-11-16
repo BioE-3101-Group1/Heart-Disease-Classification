@@ -31,11 +31,9 @@
 - thal3= normal 6= fixed defect 7 = reversible defect<br>
 - Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)<br>
 <br>
-<br>
 
 **Preprocessing data** <br>
 <p align="justify">Outliers were used in the program to deviate significantly from the rest of the objects. Hence, it is used to find errors in the dataset. The program measured the outlier by checking the outliers by using the 25 and 75 percent of every column. In addition, the program normalized the numeric data by storing the data columns in a syntax standardizing the numeric features of the data using the StandardScaler function and replacing the original values with the standardized version.</p>
-<br>
 <br>
 
 **Modeling**<br>
@@ -45,7 +43,6 @@
 
 <p align="justify">Adaboost was used to complete the training dataset to train weak learners, and it is a sequential process that corrects the error of the previous model. The program used different values of estimators and learning rates as parameters. Lastly, SVM was used to supervise machine learning. The program tested the system using different values and types of C and kernel as parameters.</p>
 <br>
- <br>
  
 **Stacking best cross validation from 4** <br>
 <p align="justify">In terms of stacking best cross-validation, the program used k-fold cross-validation and trained the classified and collected data, this was used for predictions and model stacking. Thus, the program piled the data into syntax and ran the syntax through another boosting meta-model and ensemble methods used for predicting the death rate caused by heart diseases.</p>
