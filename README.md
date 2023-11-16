@@ -15,20 +15,20 @@
 ## Methodology
 **Data columns desc**<br>
 <p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:</p>
-* age= refers to the age of the respondents
-* sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)
-* cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)
-* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg
-* Chol= refers to the respondent's cholesterol in mg/dl
-* fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise
-* restecg= refers to the resting electrocardiographic results of the respondents
-* thalach= refers to the maximum heart rate achieved
-* exang= refers to the respondent's exercise-induced angina: Yes (1) and No(0)
-* oldpeak= refers to the ST depression induced by exercise relative to rest
-* Slope= refers to the slope of the peak exercise ST segment gathered from the respondents with values: upsloping(0), flat(1), and downsloping (2)
-* ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents
-* thal3= normal 6= fixed defect 7 = reversible defect
-* Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)
+* age= refers to the age of the respondents<br>
+* sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)<br>
+* cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)<br>
+* trestbps= refers to the resting blood pressure of the respondent measured in the hospital in mm Hg<br>
+* Chol= refers to the respondent's cholesterol in mg/dl<br>
+* fbs= refers to the fasting blood sugar of the respondents. When the data is more significant than 120, it will indicate 1, meaning that it is true, and 0 if otherwise<br>
+* restecg= refers to the resting electrocardiographic results of the respondents<br>
+* thalach= refers to the maximum heart rate achieved<br>
+* exang= refers to the respondent's exercise-induced angina: Yes (1) and No(0)<br>
+* oldpeak= refers to the ST depression induced by exercise relative to rest<br>
+* Slope= refers to the slope of the peak exercise ST segment gathered from the respondents with values: upsloping(0), flat(1), and downsloping (2)<br>
+* ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents<br>
+* thal3= normal 6= fixed defect 7 = reversible defect<br>
+* Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)<br>
 
 
 **Preprocessing data** <br>
