@@ -93,6 +93,7 @@
 <p align="center">
 <img width="345" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/fdb7b768-7ffd-4016-b428-edfa8eac445e"></p>
 <p align="center"> Figure 8: Histogram of Age Based on Target and Sex</p>
+
 * Target 0 sex 0 
 <p align="justify">The histogram shows that the female whose age is within the range of 55-65 has a smaller number of people that doesn't have disease unlike when they are young.</p>
 
@@ -111,6 +112,7 @@
 <p align="center">
 <img width="349" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/2f0ae658-f7c0-4b2f-a41a-f0eaccd04fd0"></p>
 <p align="center"> Figure 10: Ageband with Reference to Target and Sex</p>
+
 * Target 0 Sex 0
 <p align="justify">The histogram shows that in the female age group of 2,3,and 4 has a lower number of people that doesn't have disease compared to male.</p>
 
@@ -126,6 +128,7 @@
 
 **Sex**
 ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/58d5c684-d8b3-4494-8802-69a08eeed78f)<br>
+
 * Target 0 Sex 0<br>
 The histogram shows that in the female age group of 2,3,and 4 has a lower number of people that doesn't have disease compare to male<br>
 * Target 0 Sex 1<br>
