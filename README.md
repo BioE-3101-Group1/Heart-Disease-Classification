@@ -57,32 +57,38 @@
 <p align="justify">Python is a powerful tool that allows users to generate images and tables to illustrate data further; heatmap is a tool that shows the values with the corresponding color depending on the different values that allows the user to analyze the patterns and correlations of the data (Ramuglia, 2023). Hence, heatmap was used to analyze the correlation of the obtained data, the data used colors to represent a certain value. For instance, the data indicates the intensity of data showing its correlation, as the correlation gets closer to the value of 1, the two data types are positively correlated, and negatively correlated for negative values. Thus, the correlation is illustrated by the color temperature of every cell. We can see there is a positive correlation between chest pain (cp) & target (our predictor). This makes sense since, the greater amount of chest pain results in a greater chance of having heart disease.</p>
 
 
-**Barplot of Slope Based Target**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/ae906869-ac79-4eb9-ac35-a7e2b6df116b)<br>
-The graph plotted different types of slopes that indicates the peak of exercise ST segment gathered with reference to the target that indicates the diagnosis of the on the patients. Slope 0 with 9, slope 1 with 49, and slope 2 with 107. The "slope" hue, refers to the peak exercise ST segment, with values: 0: upsloping , 1: flat , 2: downsloping.<br>
-This supports the plot above because low ST Depression yields people at greater risk for heart disease[x value=downsloping - closer to target with value of 1(with disease).] While a high ST depression (upsloping) is considered normal & healthy.<br>
+<p align="center">
+<img width="313" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/6042370e-abb5-459e-9cd0-acecf74c965f"></p>
+<p align="center"> Figure 3: Barplot of Slope with Respect to Target</p>
+<p align="justify">The ST segment is the region between the end and beginning of repolarization of the heart in ECG. Thus, the ST segment can be displaced above(upsloping) or below (downsloping) the baseline in a different manner, while having a flat ST segment indicates an average slope (Kashou, 2023). The table plotted different types of slopes that indicate the peak of exercise ST segment gathered with reference to the target that indicates the diagnosis of the patients. Slope 0 with 9, slope 1 with 49, and slope 2 with 107. The "slope" hue, refers to the peak exercise ST segment, with values: 0: upsloping , 1: flat , 2: downsloping).</p>
 
 
-**Distplot of thalach**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/bcc18f79-eed9-48b9-ae31-8255aa7367b6)<br>
-The displot indicates the density of the maximum heart rate (thalac). It is noticeable that the plot made a bell like shape as the maximum density falls between 150-175. The displot was also customize to red color.<br>
+<p align="center">
+<img width="338" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/0d450ba8-b2cb-418f-b32f-20b920351346"></p>
+<p align="center"> Figure 4: Distribution Plot of Thalac</p>
+<p align="justify">The displot indicates the density of the maximum heart rate (thalac). It is noticeable that the plot made a bell like shape as the maximum density falls between 150-175. The displot was also customized to red color. Maximum heart rate indicates the highest heart rate that can beat per minute to help an individual monitor the activities that they are doing (How to Calculate Max Heart Rate and Train with it, 2022)</p>
 
 
-**Barplot of cp based on target**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/0cd20f24-6756-4b5b-861e-e47ec8e5af92)<br>
-The graph plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the on the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.<br>
-Cp (chest pain), is a ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease.<br>
+**Barplot of Cp Based on Target**<br>
+<p align="center">
+<img width="341" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/47d2aa2f-9ddc-48c6-8da0-bc9553bc28d9"></p>
+<p align="center"> Figure 5: Barplot of CP with Respect to Target</p>
+<p align="justify">The table plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16. Chest pain is a feeling the users experience and encompasses a broad differential diagnosis. In this program, the data set includes various classifications, including typical angina, also known as stable angina, characterized as discomfort provoked by extension at rest (Gillen,2022). Furthermore, atypical angina is chest pain that occurs when the heart lacks the supply of oxygenated blood (Atypical Chest Pain, n.d.). Tee Melecgrito (2023)n said that anginal chest pain ranges from gastrointestinal problems. Lastly, asymptomatic chest pain is defined as rupture causes a blood clot to form in the artery, leading to acute blockage (Gayle, 2020). Cp (chest pain), is an ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease. </p>
 
 
-**Displot of Age**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/8e86cdcb-c781-4ced-88bc-935ad848de3f)<br>
-The displot shows the density with respect to age, it's observable that at the age 40-50 the density increases then decreases then increases again reaching the maximum density at the age 50-60. This data results in having a distinct shape of the plot.<br>
+<p align="center">
+<img width="338" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/df08e54d-8bd1-47c5-beea-4eec69488220"></p>
+<p align="center"> Figure 6: Distribution Plot of Age</p>
+<p align="justify">The table plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.  Cp (chest pain), is an ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease. The results reflected the study of Hearth Health and Aging (n.d.) that determines a person whose age is 60 and older is more prone to heart disease compared to young individuals as aging can cause changes in heart and blood vessels, increasing the risk of health.</p>
 
 
 **OutLiers**
-**Age with Target 0 and 1**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/d215e68a-dd6e-4d55-86ba-c832e8bbc7f5)<br>
-The histogram classified the ages based on the target having target 0 as people without disease and target 1 as people with the disease. As we can see between 35 - 70,in age 50-60 has the hihghest number of people without disease then it goes lower as the people gets older. On the other hand, people with disease has a scattered histogram it is unstable as the blocks in histogram increases and decreases simultaneously as the age progresses.<br>
+**Age**<br>
+<p align="center">
+<img width="356" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/5ca4b0cb-c30f-4c88-89e5-2f2f4b800cdd"></p>
+<p align="center"> Figure 7: Histogram of Age with Respect to Target</p>
+<p align="justify">The histogram classified the ages based on the target having target 0 as people without disease and target 1 as people with the disease. As we can see between 35 - 70,in age 50-60 has the highest number of people without disease then it goes lower as the people get older. On the other hand, people with disease have a scattered histogram; it is unstable as the blocks in histogram increase and decrease simultaneously as the age progresses.</p>
+
 
 
 **Age based on Target and Sex**<br>
