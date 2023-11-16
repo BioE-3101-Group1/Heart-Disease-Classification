@@ -14,7 +14,8 @@
 
 ## Methodology
 **Data columns desc**
-<p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:
+<p align="justify">The program used various codes, syntax, tools, and modules to generate the predictive capability of the system. The system used a dataset as data to be analyzed; it consists of 303 rows and 13 columns. To further understand the analysis, the user must be familiarized with the data column description below:<br>
+ 
 - age= refers to the age of the respondents<br>
 - sex= refers to the basis of the respondent's reproductive function: Male(1) and Female(0)<br>
 - cp= refers to the type of chest pain that the respondents experienced: typical angina(0), atypical angina(1), non-anginal pain(2), and asymptomatic(3)<br>
