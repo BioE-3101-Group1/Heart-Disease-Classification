@@ -46,7 +46,7 @@
 
 ## Results and Discussion
 <p align="center">
-  <img src="<img width="342" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/664762f5-e0c4-4c0f-9ef6-ff16accfdb87">
+  <img width="342" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/510daa1f-e9e4-4186-87c6-7a678f8288d8">
 </p>
 <p align="center">Figure 1: Countplot of the Target </p>
 <p align="justify">Heart disease is an alarming disease that occurs in different ages and genders; diagnosing this disease involves various tests and diagnosis of the heart, including blood tests, chest x-ray, ECG, heart monitoring, endocardium, exercise tests, cardiac catheterization, heart CT scan, and heart MRI scan (Heart Disease, 2022). This activity shows the total count of the data. Target 1 represents the patient diagnosed with heart disease; while 0 represents the patient not diagnosed with heart disease. The total number of patients with heart disease is 165, and the count of those not having heart disease is 138. A total of 303 entries were recorded.</p>
