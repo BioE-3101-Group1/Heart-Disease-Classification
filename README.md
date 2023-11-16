@@ -30,7 +30,6 @@
 - ca= refers to the number of major vessels(0-30) colored by fluoroscopy gathered from the respondents<br>
 - thal3= normal 6= fixed defect 7 = reversible defect<br>
 - Target= refers to the diagnosis of the respondents having a heart disease (1) or not(0)<br>
-<br>
 
 ### Preprocessing Data <br>
 <p align="justify">Outliers were used in the program to deviate significantly from the rest of the objects. Hence, it is used to find errors in the dataset. The program measured the outlier by checking the outliers by using the 25 and 75 percent of every column. In addition, the program normalized the numeric data by storing the data columns in a syntax standardizing the numeric features of the data using the StandardScaler function and replacing the original values with the standardized version.</p>
@@ -41,16 +40,17 @@
 <p align="justify">In addition, Gradient Boosting was used for regressing and classifying problems by testing the predictive capability of the machine learning model using two parameters: learning and model. The program tested the system using different values of parameters. Random forest were used to perform regression and classification tasks using multiple decision trees and a technique called Bootstrap and Aggregation. In this program, the user used different types of estimators and criterion in a max depth of 1.</p>
 
 <p align="justify">Adaboost was used to complete the training dataset to train weak learners, and it is a sequential process that corrects the error of the previous model. The program used different values of estimators and learning rates as parameters. Lastly, SVM was used to supervise machine learning. The program tested the system using different values and types of C and kernel as parameters.</p>
-<br>
  
 ### Stacking Best Cross Validation from 4 <br>
 <p align="justify">In terms of stacking best cross-validation, the program used k-fold cross-validation and trained the classified and collected data, this was used for predictions and model stacking. Thus, the program piled the data into syntax and ran the syntax through another boosting meta-model and ensemble methods used for predicting the death rate caused by heart diseases.</p>
 
 ## Results and Discussion
 
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/e95cc044-3f2e-47ba-9ebd-c011845cdbe7)<br>
-<p align="center"> **Countplot of  Target**</p>
-The graph shows the total count of the data. Target 1 represents the patient diagnosed with heart disease; while 0 represents the patient not diagnosed with heart disease. The total number of patients with heart disease is 165, and the count of those not having heart disease is 138. A total of 303 entries were recorded.<br>
+<p align="center"> ![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/e95cc044-3f2e-47ba-9ebd-c011845cdbe7)<br>
+
+ **Countplot of  Target** </p>
+<p align="justify">Heart disease is an alarming disease that occurs in different ages and genders; diagnosing this disease involves various tests and diagnosis of the heart, including blood tests, chest x-ray, ECG, heart monitoring, endocardium, exercise tests, cardiac catheterization, heart CT scan, and heart MRI scan (Heart Disease, 2022). This activity shows the total count of the data. Target 1 represents the patient diagnosed with heart disease; while 0 represents the patient not diagnosed with heart disease. The total number of patients with heart disease is 165, and the count of those not having heart disease is 138. A total of 303 entries were recorded.</p>
+
 
 
 **Heatmat**<br>
