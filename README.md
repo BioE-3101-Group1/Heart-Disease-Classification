@@ -205,22 +205,29 @@
 
 
 
-**Barplot od ca**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/dbd22342-7f81-4cf7-80b1-d95bb63b9665)<br>
-The barplot indicates the number of major vessels colored by fluoroscopy, it shows a highest value of ca and highest value of error bar at 4<br>
+**CA**<br>
+<p align="center">
+<img width="342" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/a8c3c36f-c56b-4110-86b6-47bf251e9a1f"></p>
+<p align="center"> Figure 20: Barplot of CA with Respect to Target</p>
+<p align="justify">The barplot indicates the number of major vessels colored by fluoroscopy, it shows a highest value of ca and highest value of error bar at 4</p>
 
 
-**Barplot of Thal**<br>
-<img width="347" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1eff0172-d098-4052-be93-b45c8c3c07a8"><br>
-The barplot shows a highest number of data in 2 but a highest error bar in 0<br>
+**Thal**<br>
+<p align="center">
+<img width="314" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/9b1a360a-3a47-4ffe-b2c8-321d6e6305c7"></p>
+<p align="center"> Figure 21: Barplot of Thal with Respect to Target</p>
+<p align="justify">Thalassemia is a disease that was analyzed in the dataset, it is defined as an inherited blood disorder when the body doesn't make enough hemoglobin (Learn more about  thalassemia | CDC, 2023). In this activity, the barplot shows a highest number of data in 2 but a highest error bar in 0</p>
 
 **Modeling**<br>
-![image](https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/b8e56e31-ade3-455d-8119-79b734262463)<br>
-The table shows the highest value attained in each modeling and to analyze the highest model method. The data shows that random forest has the highest score values attained used to perform both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and aggregation<br>
+<p align="center">
+<img width="97" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/c46cd1e3-7236-4c23-9325-486e6b570b3c"></p>
+<p align="center"> Figure 22: Maximum Score of the Used Model</p>
+<p align="justify">The table shows the highest value attained in each modeling and to analyze the highest model method. The data shows that random forest has the highest score values attained used to perform both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and aggregation.</p>
 
 
-**Stacking best cross validation from 4**<br>
-* Final score for predicting death by heart disease is 88.16<br>
+**Stacking Best Cross Validation from 4**<br>
+<p align="justify">Achieving reliable and accurate forecasts is crucial for proactive healthcare interventions and well-informed decision-making in the field of heart disease mortality predictive modeling. Stacking, an advanced ensemble methodology, has been used to overcome this difficulty by combining the advantages of four different cross-validation techniques. By combining various viewpoints and prediction skills from several cross-validation methods, the stacked model aims to strengthen the predictive model's overall generality and dependability. After extensive training and assessment, the combination of these approaches produced an outstanding 88.16% final accuracy score. This success not only demonstrates how well stacking unifies disparate model outputs, but also emphasizes how it might improve the accuracy of forecasts for important health outcomes, such as heart disease mortality.</p>
+
 
 ## Conclusion
 
