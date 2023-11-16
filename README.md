@@ -1,5 +1,5 @@
-# Heart-Disease-Classification
-# Introduction<h1>
+# Heart-Disease-Classification<h1>
+# Introduction<h3>
 Using the capabilities of categorization machine learning algorithms, heart disease prediction has grown in importance in today's healthcare environment. Because cardiovascular diseases are very common, it is critical to create precise and effective predictive models as soon as possible to help doctors diagnose and treat patients early. With so much patient data at their disposal—from demographics to detailed medical histories—classification algorithms have the potential to identify intricate patterns and risk factors that may be difficult to identify with conventional diagnostic techniques. This is a revolutionary strategy where healthcare and machine learning come together to provide doctors with tools that improve the accuracy and timeliness of heart disease prediction.<br>
 
 The main goal of this study was to predict whether individuals had underlying cardiac problems by using a hospital system dataset for analysis and information extraction. By carefully analyzing the data, the goal was to create a prediction model that would improve the ability to recognize people who are more likely to have these kinds of illnesses. The objective is to use the knowledge gathered from the dataset analysis to support preventative healthcare initiatives.<br>
