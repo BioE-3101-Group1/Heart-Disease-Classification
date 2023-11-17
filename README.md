@@ -79,7 +79,7 @@
 <p align="center">
 <img width="338" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/df08e54d-8bd1-47c5-beea-4eec69488220"></p>
 <p align="center"> Figure 6: Distribution Plot of Age</p>
-<p align="justify">The table plotted different types of chest pain that the respondents experienced that indicates the diagnosis of the patients. Cp 3 with 39, Cp 2 with 41, Cp 1 with 69, and Cp 0 with 16.  Cp (chest pain), is an ordinal feature with 4 values. This makes sense since, The greater amount of chest pain results in a greater chance of having heart disease. The results reflected the study of Hearth Health and Aging (n.d.) that determines a person whose age is 60 and older is more prone to heart disease compared to young individuals as aging can cause changes in heart and blood vessels, increasing the risk of health.</p>
+<p align="justify">The resulting plot will display a histogram of the 'age' values, providing insights into the distribution of ages in the dataset. The results reflected the study of Hearth Health and Aging (n.d.) that determines a person whose age is 60 and older is more prone to heart disease compared to young individuals as aging can cause changes in heart and blood vessels, increasing the risk of health.</p>
 <br>
 
 **OutLiers**
