@@ -143,7 +143,7 @@
 <p align="center">
 <img width="324" alt="image" src="https://github.com/BioE-3101-Group1/Heart-Disease-Classification/assets/150891754/1fc07dc3-4cb4-4d69-abbf-dff15ee2b0dc"></p>
 <p align="center"> Figure 12: Distribution Plot of Trestbps</p>
-<p align="justify">Blood pressure is the force excreted by the heart when it pumps to the artery walls. Thus, it is composed of systolic (highest pressure when the heart pumps) and diastolic ( pressure when the heart relaxes) (Blood pressure (high)-hypertension, n.d.). In this activity, the distplot indicates the resting blood pressure of the respondent measured with respect to density. It shows a bell-like shape showing a highest 120-140. 
+<p align="justify">Blood pressure is the force excreted by the heart when it pumps to the artery walls. Thus, it is composed of systolic (highest pressure when the heart pumps) and diastolic ( pressure when the heart relaxes) (Blood pressure (high)-hypertension, n.d.). In this activity, the distplot indicates the resting blood pressure of the respondent measured with respect to density. It shows a bell-like shape showing a highest 120-140. </p>
 <br>
 
 **Chol**<br>
