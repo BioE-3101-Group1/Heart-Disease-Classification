@@ -1,4 +1,4 @@
-# Heart-Disease-Classification
+# Heart Disease Classification
 ## Introduction
 <p align="justify">Using the capabilities of categorization machine learning algorithms, heart disease prediction has grown in importance in today's healthcare environment. Because cardiovascular diseases are very common, it is critical to create precise and effective predictive models as soon as possible to help doctors diagnose and treat patients early. With so much patient data at their disposal—from demographics to detailed medical histories—classification algorithms have the potential to identify intricate patterns and risk factors that may be difficult to identify with conventional diagnostic techniques. This is a revolutionary strategy where healthcare and machine learning come together to provide doctors with tools that improve the accuracy and timeliness of heart disease prediction.</p>
 
