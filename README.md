@@ -238,4 +238,4 @@
 ## Conclusion
 
 ## Disclaimer 
-The instructions and code used in the project are based on the provided guidelines. The program and dataset used for this gathered from the work of Lital Davar, retrieved from https://www.kaggle.com/code/litaldavar/heart-disease-classification/notebook?fbclid=IwAR1sxjxbEjUTc6cLk70JR8ZPLWbKme7REkpr7vZOVadnS3FlyESwwkToxug<br>
+<p align="justify">The instructions and code used in the project are based on the provided guidelines. The program and dataset used for this gathered from the work of Lital Davar, retrieved from https://www.kaggle.com/code/litaldavar/heart-disease-classification/notebook?fbclid=IwAR2cdwNNp4vxBi9uz7WbOQonzs0qwT-eMuV4JVDBU4kgN8FGGptylk7p93k </p>
